@@ -1,6 +1,7 @@
  
 body{
    font-family: Calibri;
+   cursor: default;
 }
 .ligne {
     background-color: white;
